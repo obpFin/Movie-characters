@@ -1,5 +1,5 @@
-# Movie-characters
-Spring Data REST project
+# Movie-characters project
+Spring Data REST API
 
 - Maven
 - Lombok
@@ -7,4 +7,10 @@ Spring Data REST project
 - Thymeleaf
 - JPA
 - MySQL
+
+React.js Client
+	
+- Webpack
+- babel
+- Rest.js
 
