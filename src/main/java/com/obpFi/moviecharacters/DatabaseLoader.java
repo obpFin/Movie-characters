@@ -16,7 +16,7 @@ public class DatabaseLoader implements CommandLineRunner {
 
     @Override
     public void run(String... strings) throws Exception {
-        this.repository.save(new MovieCharacter("Indiana","Jones","IndianaJones","placeholder"));
+        this.repository.save(new MovieCharacter("Luke","SkyWalker","Jedi","placeholder"));
     }
 
 }

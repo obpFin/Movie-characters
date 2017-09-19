@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "PORT=8080 react-scripts start"
   },
   "author": "Oskari Peltonen",
   "license": "ISC",
@@ -17,4 +17,4 @@
   "dependencies": {
     "rest": "^2.0.0"
   }
-}
+} 
